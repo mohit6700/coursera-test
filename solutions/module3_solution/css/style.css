@@ -29,6 +29,8 @@ body {
   background: #3AAFA9;
   border: 1px solid #6f44a0;
   font-weight: bold;
+  margin-bottom: 5px;
+  padding: 20px;
 }
 
 #nav-list a:hover {
